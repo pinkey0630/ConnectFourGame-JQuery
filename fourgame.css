@@ -1,0 +1,21 @@
+h1 {
+  color: #3d3b3b;
+}
+
+h2 {
+  color: #706f6f;
+}
+
+.board button{
+  width: 80px;
+  height: 80px;
+  margin:1px;
+  background-color: #f2c6ce;
+  border-radius: 50%;
+  border: 2.5px gray;
+}
+
+.start {
+  margin: 10px;
+  background-color: #ced6db;
+}
